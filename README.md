@@ -2,6 +2,8 @@
 
 ###Hi Humans!
 
+$A = \pi*r^{2}$
+
 **Hubot** here, I like Node.js and [Coffeescript][1] (that's what I'm made of!).  
 
 I've had tacos on the moon and find them far superior to Earth tacos.
