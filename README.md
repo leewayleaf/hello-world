@@ -2,7 +2,7 @@
 
 ###Hi Humans!
 
-$A = \pi*r^{2}$
+_A = \pi*r^{2}_
 
 **Hubot** here, I like Node.js and [Coffeescript][1] (that's what I'm made of!).  
 
